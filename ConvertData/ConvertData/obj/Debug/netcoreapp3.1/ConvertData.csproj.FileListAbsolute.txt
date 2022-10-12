@@ -1,0 +1,13 @@
+C:\Users\Rodrigo\source\repos\ConvertData\ConvertData\bin\Debug\netcoreapp3.1\ConvertData.exe
+C:\Users\Rodrigo\source\repos\ConvertData\ConvertData\bin\Debug\netcoreapp3.1\ConvertData.deps.json
+C:\Users\Rodrigo\source\repos\ConvertData\ConvertData\bin\Debug\netcoreapp3.1\ConvertData.runtimeconfig.json
+C:\Users\Rodrigo\source\repos\ConvertData\ConvertData\bin\Debug\netcoreapp3.1\ConvertData.runtimeconfig.dev.json
+C:\Users\Rodrigo\source\repos\ConvertData\ConvertData\bin\Debug\netcoreapp3.1\ConvertData.dll
+C:\Users\Rodrigo\source\repos\ConvertData\ConvertData\bin\Debug\netcoreapp3.1\ConvertData.pdb
+C:\Users\Rodrigo\source\repos\ConvertData\ConvertData\obj\Debug\netcoreapp3.1\ConvertData.csprojAssemblyReference.cache
+C:\Users\Rodrigo\source\repos\ConvertData\ConvertData\obj\Debug\netcoreapp3.1\ConvertData.AssemblyInfoInputs.cache
+C:\Users\Rodrigo\source\repos\ConvertData\ConvertData\obj\Debug\netcoreapp3.1\ConvertData.AssemblyInfo.cs
+C:\Users\Rodrigo\source\repos\ConvertData\ConvertData\obj\Debug\netcoreapp3.1\ConvertData.csproj.CoreCompileInputs.cache
+C:\Users\Rodrigo\source\repos\ConvertData\ConvertData\obj\Debug\netcoreapp3.1\ConvertData.dll
+C:\Users\Rodrigo\source\repos\ConvertData\ConvertData\obj\Debug\netcoreapp3.1\ConvertData.pdb
+C:\Users\Rodrigo\source\repos\ConvertData\ConvertData\obj\Debug\netcoreapp3.1\ConvertData.genruntimeconfig.cache
